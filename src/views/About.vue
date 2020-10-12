@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <section class="bg-secondary text-light">
-      <div class="container">
+      <div class="container-fluid">
         <div class="row py-5 justify-content-center">
           <div class="col-md-6">
             <h3 class="font-bold">Lorem ipsum dolor</h3>
